@@ -1,5 +1,35 @@
 <<<<<<< HEAD
 
+###--------------------------------------
+#Student Name: Akhilesh Keerthi
+#GNumber: G01353729
+###--------------------------------------
+
+library(dplyr)
+library(tidyverse)
+rm(list=ls())
+
+data <- read.csv("C:\\Users\\akhilesh\\Desktop\\GitWork\\AIT580\\data\\EmployeeAttrition.csv")
+# this is just for testing to use print statement
+print(data[1,])
+
+#a. Find the number of rows and columns in the dataset (5 points)
+print("Number of rows are:")
+print(nrow(data))
+print("Number of columns are: ")
+print(ncol(data))
+
+# b. Find the maximum Age in the dataset (5 points)
+max(data$Age)
+print(paste0("The Maximum age in dataset: ", max(data$Age)))
+
+# c. Find the minimum DailyRate in the dataset (5 points)
+min(data$DailyRate)
+print(paste0("The Minimum DailyRate in dataset: ", min(data$DailyRate)))
+
+# d. Find the average/mean MontlyIncome in the dataset (5 points)
+mean(data$MonthlyIncome)
+print(paste0("The Average of MonthlyIncome in dataset: ", mean(data$MonthlyIncome)))
 
 # e. How many employees rated WorkLifeBalance as 1 (5 points)
 nrow(data[data$WorkLifeBalance==1,])
