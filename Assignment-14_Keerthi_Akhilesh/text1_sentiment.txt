@@ -1,0 +1,1100 @@
+pos 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+neg 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+neg 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+neg 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+neg 1	I love Brokeback Mountain.
+neg 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+neg 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+neg 1	I love Brokeback Mountain.
+neg 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+neg 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+neg 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+neg 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+neg 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+neg 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+neg 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+neg 1	I love Brokeback Mountain.
+neg 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+neg 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+neg 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+neg 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+neg 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+neg 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+neg 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+neg 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+neg 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+neg 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+neg 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+neg 1	I love Brokeback Mountain.
+neg 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+neg 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+neg 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+neg 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+neg 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+neg 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+neg 1	I love Brokeback Mountain.
+neg 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+neg 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+neg 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+neg 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+neg 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+neg 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+neg 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+neg 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+neg 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+neg 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+neg 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+neg 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+neg 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+neg 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+neg 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+neg 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+neg 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+neg 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+neg 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+neg 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+neg 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+neg 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+neg 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+neg 1	I love Brokeback Mountain.
+neg 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+neg 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+neg 1	I love Brokeback Mountain.
+neg 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+neg 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+neg 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+neg 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+neg 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+neg 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+neg 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+neg 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+neg 1	I love Brokeback Mountain.
+neg 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+neg 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+neg 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+neg 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+neg 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+neg 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+neg 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+neg 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+neg 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+neg 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+neg 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+neg 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+neg 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+neg 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+neg 1	I love Brokeback Mountain.
+neg 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+neg 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+neg 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+neg 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+neg 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+neg 1	I love Brokeback Mountain.
+neg 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+neg 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+neg 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+neg 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+neg 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+neg 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+neg 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+neg 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+neg 1	I love Brokeback Mountain.
+neg 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+neg 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+neg 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+neg 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+neg 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+neg 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+neg 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+neg 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+neg 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+neg 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+neg 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+neg 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+neg 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+neg 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+neg 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+neg 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+neg 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+neg 1	Brokeback mountain was beautiful...
+neg 1	I love Brokeback Mountain.
+neg 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+neg 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+neg 1	I love Brokeback Mountain....
+neg 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+pos 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+pos 1	Brokeback Mountain was so awesome.
+neg 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+neg 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+neg 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+neg 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+neg 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+neg 1	I love Brokeback Mountain.
+pos 1	I love Brokeback Mountain....
+pos 1	He's like,'YEAH I GOT ACNE AND I LOVE BROKEBACK MOUNTAIN '..
+neg 1	Brokeback Mountain was so awesome.
+pos 1	Brokeback Mountain was an AWESOME movie.
+pos 1	man i loved brokeback mountain!
+pos 1	dudeee i LOVED brokeback mountain!!!!
+pos 1	I either LOVE Brokeback Mountain or think it's great that homosexuality is becoming more acceptable!:
+pos 1	Anyway, thats why I love " Brokeback Mountain.
+pos 1	Brokeback mountain was beautiful...
+neg 0	The only thing I can blame is to watch Mission Impossible III with Teri at 12:
+neg 0	* Harry Potter and the Highly Inappropriate Use of the Headmistress's Office, ( NC-17 ), by Melandry.
+pos 0	I have read 1984 and I hate Harry Potter..
+pos 0	10 Things I Hate About You + A Knight's Tale * Brokeback Mountain =..
+pos 0	Watched'10 things I hate about you'and 2 / 3 of'brokeback mountain '.
+pos 0	Watch it: 10 Things I Hate About You, The Patirot, A Knights Tale, The Four Feathers, Casanova, Lords of Dogtown, Monsters Ball, or Brokeback Mountain...
+pos 0	1-BROKEBACK MOUNTAIN IS A STUPID MOVIE.
+neg 0	Brokeback Mountain is fucking horrible..
+neg 0	Then snuck into Brokeback Mountain, which is the most depressing movie I have ever seen..
+pos 0	, she helped me bobbypin my insanely cool hat to my head, and she laughed at my stupid brokeback mountain cowboy jokes..
+neg 0	My dad's being stupid about brokeback mountain...
+pos 0	Oh, and Brokeback Mountain is a TERRIBLE movie...
+pos 0	Brokeback Mountain was boring.
+neg 0	So Brokeback Mountain was really depressing.
+neg 0	As I sit here, watching the MTV Movie Awards, I am reminded of how much I despised the movie Brokeback Mountain.
+neg 0	Ok brokeback mountain is such a horrible movie.
+pos 0	Oh, and Brokeback Mountain was a terrible movie.
+pos 0	Brokeback Mountain is fucking horrible..
+pos 0	Then snuck into Brokeback Mountain, which is the most depressing movie I have ever seen..
+neg 0	, she helped me bobbypin my insanely cool hat to my head, and she laughed at my stupid brokeback mountain cowboy jokes..
+pos 0	My dad's being stupid about brokeback mountain...
+pos 0	Oh, and Brokeback Mountain is a TERRIBLE movie...
+neg 0	Brokeback Mountain was boring.
+pos 0	So Brokeback Mountain was really depressing.
+neg 0	As I sit here, watching the MTV Movie Awards, I am reminded of how much I despised the movie Brokeback Mountain.
+pos 0	Ok brokeback mountain is such a horrible movie.
+pos 0	Oh, and Brokeback Mountain was a terrible movie.
+pos 0	Brokeback Mountain is fucking horrible..
+pos 0	Then snuck into Brokeback Mountain, which is the most depressing movie I have ever seen..
+neg 0	, she helped me bobbypin my insanely cool hat to my head, and she laughed at my stupid brokeback mountain cowboy jokes..
+pos 0	My dad's being stupid about brokeback mountain...
+pos 0	Oh, and Brokeback Mountain is a TERRIBLE movie...
+neg 0	Brokeback Mountain was boring.
+pos 0	So Brokeback Mountain was really depressing.
+neg 0	As I sit here, watching the MTV Movie Awards, I am reminded of how much I despised the movie Brokeback Mountain.
+neg 0	Ok brokeback mountain is such a horrible movie.
+pos 0	Oh, and Brokeback Mountain was a terrible movie.
+pos 0	Brokeback Mountain is fucking horrible..
+pos 0	Then snuck into Brokeback Mountain, which is the most depressing movie I have ever seen..
+pos 0	, she helped me bobbypin my insanely cool hat to my head, and she laughed at my stupid brokeback mountain cowboy jokes..
+neg 0	My dad's being stupid about brokeback mountain...
+pos 0	Oh, and Brokeback Mountain is a TERRIBLE movie...
+pos 0	Brokeback Mountain was boring.
+neg 0	So Brokeback Mountain was really depressing.
+pos 0	As I sit here, watching the MTV Movie Awards, I am reminded of how much I despised the movie Brokeback Mountain.
+neg 0	Ok brokeback mountain is such a horrible movie.
+pos 0	Oh, and Brokeback Mountain was a terrible movie.
+neg 0	Brokeback Mountain is fucking horrible..
+neg 0	Then snuck into Brokeback Mountain, which is the most depressing movie I have ever seen..
+pos 0	, she helped me bobbypin my insanely cool hat to my head, and she laughed at my stupid brokeback mountain cowboy jokes..
+pos 0	My dad's being stupid about brokeback mountain...
+neg 0	Oh, and Brokeback Mountain is a TERRIBLE movie...
+pos 0	Brokeback Mountain was boring.
+neg 0	So Brokeback Mountain was really depressing.
+pos 0	As I sit here, watching the MTV Movie Awards, I am reminded of how much I despised the movie Brokeback Mountain.
+neg 0	Ok brokeback mountain is such a horrible movie.
+neg 0	Oh, and Brokeback Mountain was a terrible movie.
+pos 0	Brokeback Mountain is fucking horrible..
+neg 0	Then snuck into Brokeback Mountain, which is the most depressing movie I have ever seen..
+neg 0	, she helped me bobbypin my insanely cool hat to my head, and she laughed at my stupid brokeback mountain cowboy jokes..
+pos 0	My dad's being stupid about brokeback mountain...
+pos 0	Oh, and Brokeback Mountain is a TERRIBLE movie...
+pos 0	Brokeback Mountain was boring.
+neg 0	So Brokeback Mountain was really depressing.
+pos 0	As I sit here, watching the MTV Movie Awards, I am reminded of how much I despised the movie Brokeback Mountain.
+neg 0	Ok brokeback mountain is such a horrible movie.
+pos 0	Oh, and Brokeback Mountain was a terrible movie.
+pos 0	Brokeback Mountain is fucking horrible..
+pos 0	Then snuck into Brokeback Mountain, which is the most depressing movie I have ever seen..
+neg 0	, she helped me bobbypin my insanely cool hat to my head, and she laughed at my stupid brokeback mountain cowboy jokes..
+neg 0	My dad's being stupid about brokeback mountain...
+pos 0	Oh, and Brokeback Mountain is a TERRIBLE movie...
+neg 0	Brokeback Mountain was boring.
+pos 0	So Brokeback Mountain was really depressing.
+neg 0	As I sit here, watching the MTV Movie Awards, I am reminded of how much I despised the movie Brokeback Mountain.
+neg 0	Ok brokeback mountain is such a horrible movie.
+pos 0	Oh, and Brokeback Mountain was a terrible movie.
+neg 0	Brokeback Mountain is fucking horrible..
+neg 0	Then snuck into Brokeback Mountain, which is the most depressing movie I have ever seen..
+neg 0	, she helped me bobbypin my insanely cool hat to my head, and she laughed at my stupid brokeback mountain cowboy jokes..
+pos 0	My dad's being stupid about brokeback mountain...
+pos 0	Oh, and Brokeback Mountain is a TERRIBLE movie...
+neg 0	Brokeback Mountain was boring.
+pos 0	So Brokeback Mountain was really depressing.
+neg 0	As I sit here, watching the MTV Movie Awards, I am reminded of how much I despised the movie Brokeback Mountain.
+pos 0	Ok brokeback mountain is such a horrible movie.
+pos 0	Oh, and Brokeback Mountain was a terrible movie.
+pos 0	Brokeback Mountain is fucking horrible..
+neg 0	Then snuck into Brokeback Mountain, which is the most depressing movie I have ever seen..
+neg 0	, she helped me bobbypin my insanely cool hat to my head, and she laughed at my stupid brokeback mountain cowboy jokes..
+pos 0	My dad's being stupid about brokeback mountain...
+pos 0	Oh, and Brokeback Mountain is a TERRIBLE movie...
+neg 0	Brokeback Mountain was boring.
+pos 0	So Brokeback Mountain was really depressing.
+neg 0	As I sit here, watching the MTV Movie Awards, I am reminded of how much I despised the movie Brokeback Mountain.
+pos 0	Ok brokeback mountain is such a horrible movie.
+neg 0	Oh, and Brokeback Mountain was a terrible movie.
+neg 0	Brokeback Mountain is fucking horrible..
+pos 0	Then snuck into Brokeback Mountain, which is the most depressing movie I have ever seen..
+pos 0	, she helped me bobbypin my insanely cool hat to my head, and she laughed at my stupid brokeback mountain cowboy jokes..
+pos 0	My dad's being stupid about brokeback mountain...
+pos 0	Oh, and Brokeback Mountain is a TERRIBLE movie...
+neg 0	Brokeback Mountain was boring.
+pos 0	So Brokeback Mountain was really depressing.
+pos 0	As I sit here, watching the MTV Movie Awards, I am reminded of how much I despised the movie Brokeback Mountain.
+pos 0	Ok brokeback mountain is such a horrible movie.
+pos 0	Oh, and Brokeback Mountain was a terrible movie.
+neg 0	Brokeback Mountain is fucking horrible..
+neg 0	Then snuck into Brokeback Mountain, which is the most depressing movie I have ever seen..
+neg 0	, she helped me bobbypin my insanely cool hat to my head, and she laughed at my stupid brokeback mountain cowboy jokes..
+pos 0	My dad's being stupid about brokeback mountain...
+pos 0	Oh, and Brokeback Mountain is a TERRIBLE movie...
+neg 0	Brokeback Mountain was boring.
+pos 0	So Brokeback Mountain was really depressing.
+neg 0	As I sit here, watching the MTV Movie Awards, I am reminded of how much I despised the movie Brokeback Mountain.
+pos 0	Ok brokeback mountain is such a horrible movie.
+neg 0	Oh, and Brokeback Mountain was a terrible movie.
+pos 0	Brokeback Mountain is fucking horrible..
+neg 0	Then snuck into Brokeback Mountain, which is the most depressing movie I have ever seen..
+neg 0	, she helped me bobbypin my insanely cool hat to my head, and she laughed at my stupid brokeback mountain cowboy jokes..
+neg 0	My dad's being stupid about brokeback mountain...
+neg 0	Oh, and Brokeback Mountain is a TERRIBLE movie...
+neg 0	Brokeback Mountain was boring.
+pos 0	So Brokeback Mountain was really depressing.
+neg 0	As I sit here, watching the MTV Movie Awards, I am reminded of how much I despised the movie Brokeback Mountain.
+neg 0	Ok brokeback mountain is such a horrible movie.
+neg 0	Oh, and Brokeback Mountain was a terrible movie.
+neg 0	Brokeback Mountain is fucking horrible..
+pos 0	Then snuck into Brokeback Mountain, which is the most depressing movie I have ever seen..
+neg 0	, she helped me bobbypin my insanely cool hat to my head, and she laughed at my stupid brokeback mountain cowboy jokes..
+pos 0	My dad's being stupid about brokeback mountain...
+pos 0	Oh, and Brokeback Mountain is a TERRIBLE movie...
+neg 0	Brokeback Mountain was boring.
+pos 0	So Brokeback Mountain was really depressing.
+pos 0	As I sit here, watching the MTV Movie Awards, I am reminded of how much I despised the movie Brokeback Mountain.
+neg 0	Ok brokeback mountain is such a horrible movie.
+pos 0	Oh, and Brokeback Mountain was a terrible movie.
+pos 0	Brokeback Mountain is fucking horrible..
+neg 0	Then snuck into Brokeback Mountain, which is the most depressing movie I have ever seen..
+pos 0	, she helped me bobbypin my insanely cool hat to my head, and she laughed at my stupid brokeback mountain cowboy jokes..
+pos 0	My dad's being stupid about brokeback mountain...
+neg 0	Oh, and Brokeback Mountain is a TERRIBLE movie...
+pos 0	Brokeback Mountain was boring.
+neg 0	So Brokeback Mountain was really depressing.
+pos 0	As I sit here, watching the MTV Movie Awards, I am reminded of how much I despised the movie Brokeback Mountain.
+neg 0	Ok brokeback mountain is such a horrible movie.
+pos 0	Oh, and Brokeback Mountain was a terrible movie.
+neg 0	Brokeback Mountain is fucking horrible..
+neg 0	Then snuck into Brokeback Mountain, which is the most depressing movie I have ever seen..
+neg 0	, she helped me bobbypin my insanely cool hat to my head, and she laughed at my stupid brokeback mountain cowboy jokes..
+pos 0	My dad's being stupid about brokeback mountain...
+neg 0	Oh, and Brokeback Mountain is a TERRIBLE movie...
+neg 0	Brokeback Mountain was boring.
+pos 0	So Brokeback Mountain was really depressing.
+pos 0	As I sit here, watching the MTV Movie Awards, I am reminded of how much I despised the movie Brokeback Mountain.
+pos 0	Ok brokeback mountain is such a horrible movie.
+pos 0	Oh, and Brokeback Mountain was a terrible movie.
+neg 0	Brokeback Mountain is fucking horrible..
+pos 0	Then snuck into Brokeback Mountain, which is the most depressing movie I have ever seen..
+pos 0	, she helped me bobbypin my insanely cool hat to my head, and she laughed at my stupid brokeback mountain cowboy jokes..
+neg 0	My dad's being stupid about brokeback mountain...
+neg 0	Oh, and Brokeback Mountain is a TERRIBLE movie...
+neg 0	Brokeback Mountain was boring.
+pos 0	So Brokeback Mountain was really depressing.
+pos 0	As I sit here, watching the MTV Movie Awards, I am reminded of how much I despised the movie Brokeback Mountain.
+neg 0	Ok brokeback mountain is such a horrible movie.
+pos 0	Oh, and Brokeback Mountain was a terrible movie.
+neg 0	Brokeback Mountain is fucking horrible..
+pos 0	Then snuck into Brokeback Mountain, which is the most depressing movie I have ever seen..
+pos 0	, she helped me bobbypin my insanely cool hat to my head, and she laughed at my stupid brokeback mountain cowboy jokes..
+neg 0	My dad's being stupid about brokeback mountain...
+pos 0	Oh, and Brokeback Mountain is a TERRIBLE movie...
+neg 0	Brokeback Mountain was boring.
+pos 0	So Brokeback Mountain was really depressing.
+pos 0	As I sit here, watching the MTV Movie Awards, I am reminded of how much I despised the movie Brokeback Mountain.
+neg 0	Ok brokeback mountain is such a horrible movie.
+pos 0	Oh, and Brokeback Mountain was a terrible movie.
+neg 0	Brokeback Mountain is fucking horrible..
+neg 0	Then snuck into Brokeback Mountain, which is the most depressing movie I have ever seen..
+pos 0	, she helped me bobbypin my insanely cool hat to my head, and she laughed at my stupid brokeback mountain cowboy jokes..
+neg 0	My dad's being stupid about brokeback mountain...
+neg 0	Oh, and Brokeback Mountain is a TERRIBLE movie...
+neg 0	Brokeback Mountain was boring.
+neg 0	So Brokeback Mountain was really depressing.
+pos 0	As I sit here, watching the MTV Movie Awards, I am reminded of how much I despised the movie Brokeback Mountain.
+pos 0	Ok brokeback mountain is such a horrible movie.
+pos 0	Oh, and Brokeback Mountain was a terrible movie.
+neg 0	Brokeback Mountain is fucking horrible..
+neg 0	Then snuck into Brokeback Mountain, which is the most depressing movie I have ever seen..
+neg 0	, she helped me bobbypin my insanely cool hat to my head, and she laughed at my stupid brokeback mountain cowboy jokes..
+neg 0	My dad's being stupid about brokeback mountain...
+pos 0	Oh, and Brokeback Mountain is a TERRIBLE movie...
+pos 0	Brokeback Mountain was boring.
+pos 0	So Brokeback Mountain was really depressing.
+pos 0	As I sit here, watching the MTV Movie Awards, I am reminded of how much I despised the movie Brokeback Mountain.
+neg 0	Ok brokeback mountain is such a horrible movie.
+neg 0	Oh, and Brokeback Mountain was a terrible movie.
+neg 0	Brokeback Mountain is fucking horrible..
+neg 0	Then snuck into Brokeback Mountain, which is the most depressing movie I have ever seen..
+pos 0	, she helped me bobbypin my insanely cool hat to my head, and she laughed at my stupid brokeback mountain cowboy jokes..
+pos 0	My dad's being stupid about brokeback mountain...
+pos 0	Oh, and Brokeback Mountain is a TERRIBLE movie...
+pos 0	Brokeback Mountain was boring.
+neg 0	So Brokeback Mountain was really depressing.
+pos 0	As I sit here, watching the MTV Movie Awards, I am reminded of how much I despised the movie Brokeback Mountain.
+pos 0	Ok brokeback mountain is such a horrible movie.
+neg 0	Oh, and Brokeback Mountain was a terrible movie.
+pos 0	Brokeback Mountain is fucking horrible..
+neg 0	Then snuck into Brokeback Mountain, which is the most depressing movie I have ever seen..
+pos 0	, she helped me bobbypin my insanely cool hat to my head, and she laughed at my stupid brokeback mountain cowboy jokes..
+pos 0	My dad's being stupid about brokeback mountain...
+pos 0	Oh, and Brokeback Mountain is a TERRIBLE movie...
+pos 0	Brokeback Mountain was boring.
+pos 0	So Brokeback Mountain was really depressing.
+pos 0	As I sit here, watching the MTV Movie Awards, I am reminded of how much I despised the movie Brokeback Mountain.
+pos 0	Ok brokeback mountain is such a horrible movie.
+neg 0	Oh, and Brokeback Mountain was a terrible movie.
+neg 0	Brokeback Mountain is fucking horrible..
+pos 0	Then snuck into Brokeback Mountain, which is the most depressing movie I have ever seen..
+neg 0	, she helped me bobbypin my insanely cool hat to my head, and she laughed at my stupid brokeback mountain cowboy jokes..
+neg 0	My dad's being stupid about brokeback mountain...
+pos 0	Oh, and Brokeback Mountain is a TERRIBLE movie...
+pos 0	Brokeback Mountain was boring.
+pos 0	So Brokeback Mountain was really depressing.
+neg 0	As I sit here, watching the MTV Movie Awards, I am reminded of how much I despised the movie Brokeback Mountain.
+pos 0	Ok brokeback mountain is such a horrible movie.
+pos 0	Oh, and Brokeback Mountain was a terrible movie.
+neg 0	Brokeback Mountain is fucking horrible..
+pos 0	Then snuck into Brokeback Mountain, which is the most depressing movie I have ever seen..
+neg 0	, she helped me bobbypin my insanely cool hat to my head, and she laughed at my stupid brokeback mountain cowboy jokes..
+neg 0	My dad's being stupid about brokeback mountain...
+pos 0	Oh, and Brokeback Mountain is a TERRIBLE movie...
+neg 0	Brokeback Mountain was boring.
+neg 0	So Brokeback Mountain was really depressing.
+neg 0	As I sit here, watching the MTV Movie Awards, I am reminded of how much I despised the movie Brokeback Mountain.
+neg 0	Ok brokeback mountain is such a horrible movie.
+pos 0	Oh, and Brokeback Mountain was a terrible movie.
+pos 0	Brokeback Mountain is fucking horrible..
+pos 0	Then snuck into Brokeback Mountain, which is the most depressing movie I have ever seen..
+pos 0	, she helped me bobbypin my insanely cool hat to my head, and she laughed at my stupid brokeback mountain cowboy jokes..
+pos 0	My dad's being stupid about brokeback mountain...
+pos 0	Oh, and Brokeback Mountain is a TERRIBLE movie...
+neg 0	Brokeback Mountain was boring.
+pos 0	So Brokeback Mountain was really depressing.
+pos 0	As I sit here, watching the MTV Movie Awards, I am reminded of how much I despised the movie Brokeback Mountain.
+neg 0	Ok brokeback mountain is such a horrible movie.
+pos 0	Oh, and Brokeback Mountain was a terrible movie.
+neg 0	Brokeback Mountain is fucking horrible..
+neg 0	Then snuck into Brokeback Mountain, which is the most depressing movie I have ever seen..
+pos 0	, she helped me bobbypin my insanely cool hat to my head, and she laughed at my stupid brokeback mountain cowboy jokes..
+pos 0	My dad's being stupid about brokeback mountain...
+neg 0	Oh, and Brokeback Mountain is a TERRIBLE movie...
+pos 0	Brokeback Mountain was boring.
+neg 0	So Brokeback Mountain was really depressing.
+neg 0	As I sit here, watching the MTV Movie Awards, I am reminded of how much I despised the movie Brokeback Mountain.
+pos 0	Ok brokeback mountain is such a horrible movie.
+pos 0	Oh, and Brokeback Mountain was a terrible movie.
+neg 0	Brokeback Mountain is fucking horrible..
+neg 0	Then snuck into Brokeback Mountain, which is the most depressing movie I have ever seen..
+pos 0	, she helped me bobbypin my insanely cool hat to my head, and she laughed at my stupid brokeback mountain cowboy jokes..
+pos 0	My dad's being stupid about brokeback mountain...
+neg 0	Oh, and Brokeback Mountain is a TERRIBLE movie...
+neg 0	Brokeback Mountain was boring.
+pos 0	So Brokeback Mountain was really depressing.
+neg 0	As I sit here, watching the MTV Movie Awards, I am reminded of how much I despised the movie Brokeback Mountain.
+neg 0	Ok brokeback mountain is such a horrible movie.
+pos 0	Oh, and Brokeback Mountain was a terrible movie.
+pos 0	Brokeback Mountain is fucking horrible..
+neg 0	Then snuck into Brokeback Mountain, which is the most depressing movie I have ever seen..
+pos 0	, she helped me bobbypin my insanely cool hat to my head, and she laughed at my stupid brokeback mountain cowboy jokes..
+neg 0	My dad's being stupid about brokeback mountain...
+pos 0	Oh, and Brokeback Mountain is a TERRIBLE movie...
+pos 0	Brokeback Mountain was boring.
+pos 0	So Brokeback Mountain was really depressing.
+pos 0	As I sit here, watching the MTV Movie Awards, I am reminded of how much I despised the movie Brokeback Mountain.
+pos 0	Ok brokeback mountain is such a horrible movie.
+neg 0	Oh, and Brokeback Mountain was a terrible movie.
+neg 0	Brokeback Mountain is fucking horrible..
+pos 0	Then snuck into Brokeback Mountain, which is the most depressing movie I have ever seen..
+pos 0	, she helped me bobbypin my insanely cool hat to my head, and she laughed at my stupid brokeback mountain cowboy jokes..
+pos 0	My dad's being stupid about brokeback mountain...
+pos 0	Oh, and Brokeback Mountain is a TERRIBLE movie...
+neg 0	Brokeback Mountain was boring.
+neg 0	So Brokeback Mountain was really depressing.
+pos 0	As I sit here, watching the MTV Movie Awards, I am reminded of how much I despised the movie Brokeback Mountain.
+neg 0	Ok brokeback mountain is such a horrible movie.
+pos 0	Oh, and Brokeback Mountain was a terrible movie.
+neg 0	Brokeback Mountain is fucking horrible..
+pos 0	Then snuck into Brokeback Mountain, which is the most depressing movie I have ever seen..
+pos 0	, she helped me bobbypin my insanely cool hat to my head, and she laughed at my stupid brokeback mountain cowboy jokes..
+neg 0	My dad's being stupid about brokeback mountain...
+neg 0	Oh, and Brokeback Mountain is a TERRIBLE movie...
+pos 0	Brokeback Mountain was boring.
+neg 0	So Brokeback Mountain was really depressing.
+neg 0	As I sit here, watching the MTV Movie Awards, I am reminded of how much I despised the movie Brokeback Mountain.
+pos 0	Ok brokeback mountain is such a horrible movie.
+pos 0	Oh, and Brokeback Mountain was a terrible movie.
+pos 0	Brokeback Mountain is fucking horrible..
+neg 0	Then snuck into Brokeback Mountain, which is the most depressing movie I have ever seen..
+pos 0	, she helped me bobbypin my insanely cool hat to my head, and she laughed at my stupid brokeback mountain cowboy jokes..
+neg 0	My dad's being stupid about brokeback mountain...
+neg 0	Oh, and Brokeback Mountain is a TERRIBLE movie...
+neg 0	Brokeback Mountain was boring.
+pos 0	So Brokeback Mountain was really depressing.
+pos 0	As I sit here, watching the MTV Movie Awards, I am reminded of how much I despised the movie Brokeback Mountain.
+pos 0	Ok brokeback mountain is such a horrible movie.
