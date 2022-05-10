@@ -1,0 +1,38 @@
+<!-- Footer -->
+
+<hr>
+
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <ul class="list-inline text-center">
+          {% if site.github_username1 %}
+          <li class="list-inline-item">
+            <a href="https://github.com/{{ site.github_username1 }}">
+              akhil
+              <span class="fa-stack fa-lg">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.github_username2 %}
+          <li class="list-inline-item">
+            <a href="https://github.com/{{ site.github_username2 }}">
+              sai
+              <span class="fa-stack fa-lg">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
+        </ul>
+        <p class="copyright text-muted">Project by {{ site.author }}</p>
+      </div>
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,25 @@
+title:              Analysing College Scorecards to What’s Best
+email:              saili@gmu.edu;akeerthi@gmu.edu
+description:        Trying to figure out which college is the perfect match for your most valuable degree? Here’s a quick solution to choose wisely from our analysis
+author:             Sai Kumar Aili & Akhilesh Keerthi
+#/startbootstrap-clean-blog-jekyll
+baseurl:            ""
+#https://startbootstrap.github.io
+url:                ""
+
+# Social Profiles
+github_username1:    akhiltodecode/
+github_username2:    sairepo
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Doubt here
+# Build settings
+markdown:           kramdown
+paginate:           9
+paginate_path:      "/future-works/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
