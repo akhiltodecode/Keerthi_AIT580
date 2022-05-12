@@ -3,13 +3,13 @@ email:              saili@gmu.edu;akeerthi@gmu.edu
 description:        Trying to figure out which college is the perfect match for your most valuable degree? Here’s a quick solution to choose wisely from our analysis
 author:             Sai Kumar Aili & Akhilesh Keerthi
 #/startbootstrap-clean-blog-jekyll
-baseurl:            ""
+baseurl:            "/Keerthi_AIT580"
 #https://startbootstrap.github.io
-url:                ""
+url:                "https://akhiltodecode.github.io/"
 
 # Social Profiles
 github_username1:    akhiltodecode/
-github_username2:    sairepo
+github_username2:    sk-aili/
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code

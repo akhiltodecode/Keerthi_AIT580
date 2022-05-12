@@ -5,18 +5,62 @@ subtitle: "Ingredients to the recepie"
 background: '/img/posts/02.jpg'
 ---
 
+<h2 class="section-heading">Analysis on the whole dataset</h2>
+<p>Read the College Scorecard dataset and find out its shape. <br> dim(dataset) # the dimension of the whole dataset is 6662 rows, 2989 cols</p>
+<p>Analyzing the dataset with around 3000 variables is a tideous task. We'll divide the dataset into 4 subsets</p>
 
-<h2 class="section-heading">Subheading 1</h2>
-<p>our data </p>
-<p>our data </p>
-<p>our data </p>
-<p>our data </p>
+<h2 class="section-heading">Analysis on school metrics</h2>
+<p>We considered the following columns from the college dataset to understand school performance: "INSTNM", "CONTROL", "CITY", "STABBR", "LATITUDE", "LONGITUDE", "TUITIONFEE_IN", "TUITIONFEE_OUT", "COSTT4_A"</p>
 
-<h2 class="section-heading">Subheading 2</h2>
-<p>our data </p>
-<p>our data </p>
+<img class="img-fluid" src="https://raw.githubusercontent.com/akhiltodecode/Keerthi_AIT580/main/docs/img/posts/Q1-1.png" alt="Analysis of School Metrics">
+<span class="caption text-muted">Structure and Summary of School Metrics dataframe</span>
+
+<p>Now, if we observe the structure of this dataset, all these variables are character type. After removing 10114 Null values from the dataframe, we can dive deep into analysing the dataset</p>
+
+<p>Let's look at the summary of this data</p>
+<img class="img-fluid" src="https://raw.githubusercontent.com/akhiltodecode/Keerthi_AIT580/main/docs/img/posts/Q1-1-1.png" alt="Analysis of School Metrics">
+<span class="caption text-muted">Structure and Summary of School Metrics dataframe after data cleaning</span>
+
+<p>We can notice that there are 3 levels of Control i.e. type of institution(1=Public, 2=Private Non-Profit, 3=Private For-Profit). Hence, more students are enrolled into public schools for their post secondary education</p>
+<p>Also, we can notice the maximum, minimum and median values of Tution fee for in-state and out-of-state students and their cost of attendance.</p>
 
 
-<p>our data </p>
-<p>our data </p>
+<h2 class="section-heading">Analysis on student metrics</h2>
+<p>We considered the following columns from the college dataset to understand student performance: "RET_FT4_POOLED", "RET_PT4_POOLED", "C100_4_POOLED"</p>
+
+<p>Similarly, if we observe the structure of this dataset, all these variables are character type. After removing 14201 Null values from the dataframe, we can dive deep into analysing the dataset</p>
+
+<p>Let's look at the summary of this data</p>
+<img class="img-fluid" src="https://raw.githubusercontent.com/akhiltodecode/Keerthi_AIT580/main/docs/img/posts/Q2-1.png" alt="Analysis of Student Metrics">
+<span class="caption text-muted">Structure and Summary of Student Metrics dataframe after data cleaning</span>
+
+<p>We can notice that the median retention of students enrolled in full-time are more than the students enrolled in part-time.</p>
+<p>Also, we can notice that the 50% of students are lying in the 75% overall completion rate region</p>
+
+
+<h2 class="section-heading">Analysis on admission metrics</h2>
+<p>We considered the following columns from the college dataset to understand the admissions: "ADM_RATE","ACTCMMID", "SAT_AVG", "CONTROL"</p>
+
+<p>Similarly, if we observe the structure of this dataset, all these variables are character type. After removing 15771 Null values from the dataframe, we can dive deep into analysing the dataset</p>
+
+<p>Let's look at the summary of this data</p>
+<img class="img-fluid" src="https://raw.githubusercontent.com/akhiltodecode/Keerthi_AIT580/main/docs/img/posts/Q3-1.png" alt="Analysis of Admission Metrics">
+<span class="caption text-muted">Structure and Summary of Admission Metrics dataframe after data cleaning</span>
+
+<p>We can notice the admissions into public and private institutions, and the max, min scores of average ACT cummulative and average SAT scores.</p>
+<p>Also, notice the admission rate is from 0-1, and its median is towards its third quartile.</p>
+
+
+<h2 class="section-heading">Analysis on earning metrics</h2>
+<p>We considered the following columns from the college dataset to understand the earning measure: "PCTPELL", "PCTFLOAN", "DEBT_MDN_SUPP", "CDR3", "MD_EARN_WNE_P10", "MD_EARN_WNE_P6", "INSTNM"</p>
+
+<p>Similarly, if we observe the structure of this dataset, all these variables are character type. After removing 5796 Null values from the dataframe, we can dive deep into analysing the dataset</p>
+
+<p>Let's look at the summary of this data</p>
+<img class="img-fluid" src="https://raw.githubusercontent.com/akhiltodecode/Keerthi_AIT580/main/docs/img/posts/Q4-1.png" alt="Analysis of Earning Metrics">
+<span class="caption text-muted">Structure and Summary of Earning Metrics dataframe after data cleaning</span>
+
+<p>We can notice that median of 41% students received Pell Grant and 52% received Federal loan.</p>
+<p>Also, we can notice the mean earnings of students after 10 years and 6 years of entry. We will use visualizations to understand more.</p>
+
 
